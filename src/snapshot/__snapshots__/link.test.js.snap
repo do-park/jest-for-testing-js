@@ -2,7 +2,7 @@
 
 exports[`renders correctly 1`] = `
 <a
-  className="normal"
+  className="sc-bczRLJ nDtEG normal"
   href="http://www.facebook.com"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}

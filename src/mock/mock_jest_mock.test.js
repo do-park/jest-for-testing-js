@@ -4,7 +4,7 @@ import * as math from "./math";
 // Set all module functions to jest.fn
 jest.mock("./math.js");
 // Same as
-// math.add = jest.fn();mock_jest
+// math.add = jest.fn();
 // math.subtract = jest.fn();
 // math.multiply = jest.fn();
 // math.divide = jest.fn();
